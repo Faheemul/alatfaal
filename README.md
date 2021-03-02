@@ -1,2 +1,2 @@
 # alatfaal
-learn quran online website
+Learn quran online website
